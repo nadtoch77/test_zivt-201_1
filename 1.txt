@@ -1,4 +1,4 @@
 line 1
-line 2
+line 2 change in main
 line 3 change in test1 branch 
-line 4 from remote computer
+line 4 change in main
